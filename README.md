@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a PhD Candidate in [Stochastic Operations Research at the University of Twente](https://www.utwente.nl/en/eemcs/sor/), focusing on data-driven mathematical models to improve pandemic preparedness within healthcare systems. My research is part of both the European [RAPIDE EU project](https://www.rapideproject.eu) and a national ZonMw project, where I work on developing practical tools and insights for healthcare applications.
+I am a PhD Candidate in the group of Stochastic Operations Research ([SOR](https://www.utwente.nl/en/eemcs/sor/)) and the Center for Healthcare Operations Improvement and Research ([CHOIR](https://www.utwente.nl/en/choir/)) at the University of Twente, focusing on data-driven mathematical models to improve pandemic preparedness within healthcare systems. My research is part of both the European [RAPIDE EU project](https://www.rapideproject.eu) and a national ZonMw project, where I work on developing practical tools and insights for healthcare applications.
 
 With a background in theoretical mathematics—including analysis, dynamical systems, algebra, number theory, geometry, probability, and statistics—I apply mathematical thinking and modeling to address complex healthcare challenges. My main programming language is Python, and I also have experience with R and MATLAB.
 
